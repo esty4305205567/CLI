@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+tO6pjo4xQI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\תכנות\\שנה ב\\רקורסיה\\reapete5\\CLI\\CLI\\CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.commandline\\2.0.12\\system.commandline.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
